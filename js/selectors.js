@@ -9,8 +9,8 @@ function ninjaBabySelector() {
   return $('#baby-ninja')
 }
 function divSelector() {
-  return $('.pics')
+  return $('.')
 }
 function firstListItem() {
-  return $('#pic-list')
+  return $('.pics')
 }
