@@ -9,7 +9,7 @@ function ninjaBabySelector() {
   return $('#ninja baby')
 }
 function divSelector() {
-
+  return ('.pics')
 }
 function firstListItem() {
 
